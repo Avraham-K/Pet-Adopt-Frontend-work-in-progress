@@ -1,0 +1,63 @@
+.homepage{
+height: 90vh;
+width: 100vw;
+}
+
+.homePicture{
+    height: 100%;
+    width: auto;
+    max-width: 535px;
+}
+
+.aLittleAboutUs{
+    max-width: 450px;
+    background-color:#FFFFFF;
+    border-radius: 30px;
+    font-weight: bold;
+}
+
+.content{
+    width: 100%; 
+    /* background-image: url("https://i.imgur.com/qAty5Ea.png"); */
+    background-size: 400px 320px;
+}
+
+.contentPostLogin{
+    position: relative;
+}
+
+.myPetsContainer{
+    background-color:#FFFFFF;
+    border-radius: 5px;
+    font-weight: bold;
+    border: 1px solid black;
+}
+.myPets{
+    background-color:#FFFFFF;
+    border-radius: 5px;
+    font-weight: bold;
+    border: 1px solid black;
+}
+
+.myPetGif{
+    position: relative;
+    text-align: center;
+    color: white;
+}
+
+.myPetsTitle{
+    position: absolute;
+  font-size: 1.5rem;
+  color: yellow;
+}
+
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0; 
+}
+
+input[type=number] {
+    -moz-appearance:textfield; 
+}

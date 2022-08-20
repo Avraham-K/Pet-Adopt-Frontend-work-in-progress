@@ -1,0 +1,20 @@
+.petCarousel{
+        height: 90vh;
+        width: 100vw;
+        background-color:azure
+}
+
+.filterContainer{
+    
+}
+
+.carouselContainer{
+    display: flex;
+    justify-content: center;
+}
+
+.carousel {
+    display: flex;
+    width: 600px;
+    height: auto;
+}
